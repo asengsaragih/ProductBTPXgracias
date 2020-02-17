@@ -245,6 +245,7 @@ p.p-big{
 .color-green{color: #1eda65;}
 .color-green-hvr:hover{color: #1eda65;}
 .color-gold{color: #ffd700;}
+.color-xgracias{color: #DE1B1B}
 
 /***** background-color *****/
 .bg-333{background-color: #333;}
@@ -262,6 +263,7 @@ p.p-big{
 .bg-green{background-color: #1eda65;}
 .bg-green-hvr:hover{background-color: #1eda65;}
 .bg-green-lh{background-color: #d9f1e2;}
+.bg-xgracias{background-color: #FBFBFD;}
 
 
 .overlay-bg-75{background-color: rgba(0,0,0,.75);}
